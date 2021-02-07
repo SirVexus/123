@@ -1,6 +1,6 @@
 // Zadanie 1:
 
-console.log("Jakub Faliszewski");
+console.log("Patryk Swidzinski");
 
 // Zadanie 2:
 
